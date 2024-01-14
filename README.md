@@ -1,4 +1,4 @@
-![VAULT-CRED](.readme_assets/Vault-Cred.png)   
+![VAULT-CRED](.readme_assets/Vault-Cred.png
 
 
 The open source platform for read,write and delete credentials on vault server.
